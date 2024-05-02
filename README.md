@@ -1,1 +1,1 @@
-# Interactivemedia
+# This is Interactivemedia Research Journal
